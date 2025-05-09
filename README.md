@@ -1,6 +1,8 @@
 <!-- README.md for PyApptest -->
 # PyApptest
 
+![Downloads](https://static.pepy.tech/badge/pyapptest/month) 
+
 `pyapptest` is a Streamlit-based CLI tool to **discover**, **test**, and **report** API endpoints in Python frameworks (FastAPI, Flask, Django).
 
 ## Features
